@@ -25,4 +25,3 @@ $("input[type='text']").keypress(function(event){
 	}
 })
 
-alert("ne code");
